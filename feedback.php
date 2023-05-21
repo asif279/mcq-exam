@@ -146,7 +146,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-3 box">
-<a href="#" data-toggle="modal" data-target="#developers">Developers</a>
+
 
 </div>
 <div class="col-md-3 box">
