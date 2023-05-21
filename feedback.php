@@ -141,7 +141,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds.in/online-examination" target="_blank">About us</a>
+
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
@@ -152,33 +152,11 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="col-md-3 box">
 <a href="feedback.php" target="_blank">Feedback</a></div></div>
 <!-- Modal For Developers-->
-<div class="modal fade title1" id="developers">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers</span></h4>
-      </div>
-	  
-      <div class="modal-body">
-        <p>
-		<div class="row">
-		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
-		 </div>
-		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
-		</p>
-      </div>
-    
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+
 
 <!--Modal for admin login-->
+
+
 	 <div class="modal fade" id="login">
   <div class="modal-dialog">
     <div class="modal-content">
